@@ -13,6 +13,6 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Do anh Kai đeptry wa <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Vậy mình hẹn hò nha. Ib cho anh.',
+    messDesc: 'Mình hẹn hò nha. Ib cho anh.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //kailatoy.1.}
